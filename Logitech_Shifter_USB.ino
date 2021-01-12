@@ -1,11 +1,11 @@
 
 //Logitech Driving Force Shifter USB Adapter 
-//By Armandoiglesias 2018
-//Based on Jason Duncan functionreturnfunction Project
+//By KlimasTech https://www.youtube.com/watch?v=4Yb2olZ_zdg
+//Based on Jason Duncan functionreturnfunction Project and Armandoiglesias 2018
 //Video tutorial https://www.youtube.com/watch?v=dLpWEu8kCec
-//Use Arduino Leonardo
+//Use Arduino PRO micro
 //Install Joystick Library 
-//Attribution-NonCommercial-NoDerivatives 4.0 International
+//
 
 
 #include <Joystick.h>
